@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>Image/boat.jpg</file>
-        <file>Image/girl.jpg</file>
-        <file>Image/lufei.jpg</file>
-        <file>Image/ship.png</file>
-        <file>Image/OnePiece.png</file>
-    </qresource>
-</RCC>
