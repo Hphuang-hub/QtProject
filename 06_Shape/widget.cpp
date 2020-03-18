@@ -17,7 +17,7 @@ void Widget::paintEvent(QPaintEvent *)
 {
     QPainter p(this);
     QPixmap pix;
-    pix.load("F:/QT_test/06_Shape/Image/OnePiece.png");
+    pix.load(":/Image/OnePiece.png");
     p.drawPixmap(0, 0, width(), height(), pix);
 }
 
